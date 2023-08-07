@@ -1,7 +1,8 @@
 {
-  "Well met fellow. I'm here to warn you of the bandits to the north. They are more than most new adventurers can handle.": "Guten Tag, mein Freund. Ich bin hier, um Euch vor den Banditen im Norden zu warnen. Sie sind mehr als die meisten neuen Abenteurer bewältigen können.",
+  # more as in numbers or in strength/skill?
+  "Well met fellow. I'm here to warn you of the bandits to the north. They are more than most new adventurers can handle.": "Guten Tag, mein Freund. Ich bin hier, um dich vor den Banditen im Norden zu warnen. Sie sind mehr, als die meisten neuen Abenteurer bewältigen können.",
   "THANKS": "DANKE",
-  "Welcome to town, adventurer. Aria is a quiet place for the most part.": "Willkommen in der Stadt, Abenteurer. Aria ist ein ruhiger Ort für den größten Teil.",
+  "Welcome to town, adventurer. Aria is a quiet place for the most part.": "Willkommen in der Stadt, Abenteurer. Aria ist ein weitestgehend ruhiger Ort.",
   "GUDRUN": "GUDRUN",
   "CLOAK": "UMHANG",
   "BYE": "TSCHÜSS",
@@ -9,8 +10,9 @@
   "OK": "OK",
   "Yeah, my old bones aren't what they once were. You know of a especially warm cloak? Bring me one and I'll give you my old loot, ok?": "Ja, meine alten Knochen sind nicht mehr das, was sie einmal waren. Kennst du einen besonders warmen Mantel? Bring mir einen und ich gebe dir meine alte Beute, ok?",
   "NOPE": "NEIN",
-  "A deerskin cloak? That's perfect. Very well made too. Thank you young one. Here take this shield. It served me well.": "Ein Mantel aus Hirschleder? Das ist perfekt. Und sehr gut gemacht. Danke, junger Mann. Hier nimm diesen Schild. Er hat mir gute Dienste geleistet.",
-  "Thank you brave adventurer. Give me the fang and I'll give you the spell.": "Danke, tapferer Abenteurer. Gib mir den Reißzahn und ich gebe dir den Zauberspruch.",
+  # while "young one" is gender neutral in English the translation says "young man". Is the protagonist male or can players pick a gender upon start?
+  "A deerskin cloak? That's perfect. Very well made too. Thank you young one. Here take this shield. It served me well.": "Ein Mantel aus Hirschleder? Der ist perfekt. Und noch dazu sehr gut verarbeitet. Danke, junger Mann. Hier, nimm diesen Schild. Er hat mir gute Dienste geleistet.",
+  "Thank you brave adventurer. Give me the fang and I'll give you the spell.": "Danke, tapferer Abenteurer. Gib mir den Zahn und ich gebe dir den Zauberspruch.",
   "HERE": "HIER",
   "Blessing be, a customer! Potions made, magical artifacts sold. Take your pick!": "Seid gesegnet, ein Kunde! Tränke herstellen, magische Artefakte verkaufen. Such dir was aus!",
   "BUY": "KAUFEN",
@@ -19,10 +21,11 @@
   "RUNE": "RUNE",
   "NOTHING": "NICHTS",
   "REGEN ": "REGEN",
-  "I have a very special spell, but I'll only exchange it for a spider's fang. Want to get one for me?": "Ich habe einen ganz besonderen Zauberspruch, aber ich tausche ihn nur gegen einen Spinnenzahn ein. Willst du einen für mich besorgen?",
-  "NO": "KEINE",
+  "I have a very special spell, but I'll only exchange it for a spider's fang. Want to get one for me?": "Ich habe einen ganz besonderen Zauberspruch, aber den tausche ich nur gegen einen Spinnenzahn. Willst du einen für mich besorgen?",
+  "NO": "NEIN",
+  # What is the shard? Is it broken and the player has arrived to fix it? Or can it be picked up and taken to be fixed somewhere else?
   "Ah, you're looking for the shard? Here, it will be good to see it fixed.": "Ah, du suchst nach dem Splitter? Hier, es wird gut sein zu sehen, es behoben.",
-  "Can you feel the magic?": "Können Sie die Magie spüren?",
+  "Can you feel the magic?": "Kannst du die Magie spüren?",
   "Come on in and welcome to the frosty parrot, finest ales for miles around! Don't cause trouble. If you need healing, it'll cost you 50 gold.": "Kommen Sie rein und willkommen im frostigen Papagei, dem besten Bier weit und breit! Machen Sie keinen Ärger. Wenn du Heilung brauchst, kostet dich das 50 Gold.",
   "FAREWELL": "ABSCHIED NEHMEN",
   "GAFFER": "GAFFER",
